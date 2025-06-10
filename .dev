@@ -1,2 +1,2 @@
-PORT=1000
+PORT=3000
 MONGO_URI=mongodb+srv://admin:admin@cluster0.n0xrvyj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
